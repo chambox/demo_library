@@ -1,0 +1,8 @@
+README.md
+setup.py
+demo_library/__init__.py
+demo_library/spec_functions.py
+demo_library.egg-info/PKG-INFO
+demo_library.egg-info/SOURCES.txt
+demo_library.egg-info/dependency_links.txt
+demo_library.egg-info/top_level.txt
